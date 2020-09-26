@@ -1,5 +1,5 @@
 # Automatic SMS
-This is a small project that explores the possibility of sending SMS to Norwegian mobile numbers. The thought behind this is that this can be used to send nice messages like Good Morning to their significant other even though they might not be awake themselves. 
+This is a small project that explores the possibility of sending SMS to Norwegian mobile numbers. The thought behind this is that this can be used to send SMS even though they might not be awake themselves. Like a Good Morning to their significant other or birthday congratulations. 
 
 
 
