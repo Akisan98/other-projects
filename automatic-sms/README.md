@@ -25,4 +25,4 @@ Then to execute the code, type:
 python3 automatic-sms.py
 ```
 
-<img src="\IMG_0020.PNG" style="zoom:50%;" />
+<img src="./IMG_0020.PNG" style="zoom:50%;" />
