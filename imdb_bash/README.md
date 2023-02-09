@@ -14,6 +14,12 @@ This all started with the Binge app. In beginning all the data of the Binge app 
 
 <br>
 
+# Update
+One-Liner was make for the old design.
+curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" https://www.imdb.com/title/tt0068646/ | tr -d '\n' | sed 's/.*"image":"//' | cut -d '"' -f 1
+
+This one work with the new design
+
 This script as well as this oneliner:
 
 ```bash
